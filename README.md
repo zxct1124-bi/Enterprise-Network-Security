@@ -4,7 +4,7 @@ A Cisco Packet Tracer lab (CCNA level) that models a small company network with 
 
 Open the included [Enterprise-Network-CCNA.pkt](Enterprise-Network-CCNA.pkt) to run the configured lab in Cisco Packet Tracer 8.2.2. A Cisco 2911 router provides inter-VLAN routing over an 802.1Q trunk to a Cisco 2960 core switch. Two Cisco 2960 access switches connect six PCs and an internal web and DNS server.
 
-![Logical topology in Cisco Packet Tracer](images/topology.png)
+![Enterprise Network Topology](01-IT-Isolation.png)
 
 ## IP plan
 
